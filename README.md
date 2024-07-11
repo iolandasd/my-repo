@@ -1,2 +1,2 @@
-# my-repo
+# my-repo minor update!
 Coursera GitHub module
